@@ -78,15 +78,6 @@ How does a basketball player’s **age** influence their **scoring contribution*
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── data/             # Cleaned & raw datasets (NBA & WNBA)
-├── final_analysis/   # Analysis, results and report
-└── README.md         # Project overview (this file)
-
-```
----
 
 ## 🎯 Why This Project Matters  
 This project demonstrates the ability to:  
@@ -112,8 +103,9 @@ Hi! I’m **Palak Gupta**, a Mathematics–Computer Science student with a deep 
 
 📫 **Let’s connect**:  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/palakgupta28/)  
-- 📧 [palakgupta0824@gmail.com](mailto:palakgupta0428@gmail.com)  
+- 📧 [palakgupta0428@gmail.com](mailto:palakgupta0428@gmail.com)  
 
 ---
+
 
 
