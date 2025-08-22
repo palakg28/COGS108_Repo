@@ -79,10 +79,11 @@ How does a basketball player’s **age** influence their **scoring contribution*
 ---
 
 ## 📂 Repository Structure  
+'''text 
 ├── data/ # Cleaned & raw datasets (NBA & WNBA)
 ├── final_analysis/ # Analysis, results and report
 └── README.md # Project overview (this file)
-
+'''
 ---
 
 ## 🎯 Why This Project Matters  
@@ -98,12 +99,18 @@ Beyond basketball, this approach showcases skills directly applicable to **busin
 
 ---
 
-## 📺 Project Video  
-📹 [Watch the final project presentation](https://drive.google.com/file/d/18Rrw9eavpvJga57bSeuL7HbONwHvIDwL/view?usp=drive_link)  
-
----
-
 ## 📜 License  
 Open-source for educational and portfolio use.  
 
 ---
+
+## ☕ About Me
+
+Hi! I’m **Palak Gupta**, a Mathematics–Computer Science student with a deep interest in data analytics, business intelligence, and data engineering. I enjoy building real-world projects that combine technical skill with business insight, using tools like SQL, Docker, Notion, and automation platforms like n8n.
+
+📫 **Let’s connect**:  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/palakgupta28/)  
+- 📧 [palakgupta0824@gmail.com](mailto:palakgupta0824@gmail.com)  
+
+---
+
